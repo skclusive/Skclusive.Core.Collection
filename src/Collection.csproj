@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <VersionPrefix>3.0.0-preview2</VersionPrefix>
+    <VersionSuffix>$(VersionSuffix)</VersionSuffix>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>Skclusive.Core.Collection</AssemblyName>
+    <PackageId>Skclusive.Core.Collection</PackageId>
+    <RootNamespace>Skclusive.Core.Collection</RootNamespace>
+    <Authors>Skclusive</Authors>
+    <Company>Skclusive</Company>
+  </PropertyGroup>
+</Project>
