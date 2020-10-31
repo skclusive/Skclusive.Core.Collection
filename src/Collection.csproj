@@ -8,5 +8,9 @@
     <RootNamespace>Skclusive.Core.Collection</RootNamespace>
     <Authors>Skclusive</Authors>
     <Company>Skclusive</Company>
+    <Copyright>Skclusive</Copyright>
+    <PackageTags>Skclusive Core Collection</PackageTags>
+    <PackageProjectUrl>https://github.com/skclusive/Skclusive.Core.Collection</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/skclusive/Skclusive.Core.Collection</RepositoryUrl>
   </PropertyGroup>
 </Project>
